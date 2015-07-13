@@ -429,7 +429,7 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 26px;
   line-height: 52px;
   margin-top: 52px;
   margin-bottom: 26px;
@@ -989,7 +989,7 @@ pre {
   }
 }
 /*
-	Not that old computer layout 
+	Not that old computer layout
 */
 @media only screen and (min-width: 1280px) {
   .the-header .unit-head .nav-global .logo {
@@ -1024,7 +1024,7 @@ pre {
   }
 }
 /*
-	Huge-screen layout 
+	Huge-screen layout
 */
 @media only screen and (min-width: 1410px) {
   .the-header {
